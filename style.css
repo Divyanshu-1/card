@@ -99,7 +99,7 @@ body {
 }/*# sourceMappingURL=style.css.map */
 
 
-@media screen and (max-width: 300px) 
+@media screen and (max-width: 400px) 
 {
    .card__cont
     {
@@ -107,10 +107,10 @@ body {
     }
 
     .card__cta {
-      max-width: 80%;
+      max-width: 86%;
       position: absolute;
       top: 50%;
-      left: 40%;
+      left: 39.2%;
       display: flex;
       transform: translate(-50%, -50%);
       width: 80%;
